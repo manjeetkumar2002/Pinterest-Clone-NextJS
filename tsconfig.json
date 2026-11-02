@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/components/Header.tsx", "app/components/Pins/PinsList.tsx", "app/pin-builder/page.jsx", "app/components/UserInfo.jsx"  ],
   "exclude": ["node_modules"]
 }
